@@ -30,7 +30,7 @@
 
 
 ### `—◉ ⚙️𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝗰𝗶𝗼𝗻⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/AngelPeruFachero/LOBO-BOY-MD/fork)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/AngelPeruFachero/LOBO-BOT-MD/fork)
 
   
 ### `—◉ 💥𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗞𝗼𝘆𝗲𝗯💥`
