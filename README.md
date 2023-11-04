@@ -30,20 +30,20 @@
 
 
 ### `—◉ ⚙️𝗖𝗼𝗻𝗳𝗶𝗴𝘂𝗿𝗮𝗰𝗶𝗼𝗻⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/Hachiko-Bot-MD/fork)
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/AngelPeruFachero/LOBO-BOY-MD/fork)
 
   
 ### `—◉ 💥𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗞𝗼𝘆𝗲𝗯💥`
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/Ender-GB-Isis777/LOBO-BOT-MD&branch=master&name=LOBOBOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/AngelPeruFachero/LOBO-BOT-MD&branch=master&name=LOBOBOT)
   
 ### `—◉ 🌌𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗥𝗲𝗽𝗹𝗶𝘁🌌`
 
-[![Run on Repl.it](https://repl.it/badge/github/Ender-GB-Isis777/LOBO-BOT-MD)](https://repl.it/github/Ender-GB-Isis777/LOBO-BOT-MD) 
+[![Run on Repl.it](https://repl.it/badge/github/AngelPeruFachero/LOBO-BOT-MD)](https://repl.it/github/AngelPeruFachero/LOBO-BOT-MD) 
   
 ### `—◉ 📜𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝗥𝗲𝗻𝗱𝗲𝗿📜`
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FEnder-GB-Isis777%2FLOBO-BOT-MD) 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FAngelPeruFachero%2FLOBO-BOT-MD) 
 
 ### `—◉ 📍𝗔𝗰𝘁𝗶𝘃𝗮𝗿 𝗲𝗻 𝘁𝗲𝗿𝗺𝘂𝘅📍` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
@@ -60,7 +60,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Ender-GB-Isis777/LOBO-BOT-MD.git && cd LOBO-BOT-MD
+git clone https://github.com/AngelPeruFachero/LOBO-BOT-MD.git && cd LOBO-BOT-MD
 ```
 
 ```bash
@@ -106,14 +106,12 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 ## `🌹EDITOR & PROPIETARIO DEL BOT🌹` 
-<a href="https://github.com/Ender-GB-Isis777"><img src="https://github.com/Ender-GB-Isis777.png" width="250" height="250" alt="Ender"/></a>
+<a href="https://github.com/AngelPeruFachero"><img src="https://github.com/AngelPeruFachero.png" width="250" height="250" alt="Ender"/></a>
   
 
 ## `🌼COLABORADORES DEL BOT🌼` 
-<a href="[https://github.com/Ender-GB-Isis777]"><img src="https://github.com/Ender-GB-Isis777.png" width="100" height="100" alt="Ender"/></a>
-<a href="[https://github.com/Jxtxn17]"><img src="https://github.com/Jxtxn17.png" width="100" height="100" alt="Jxtxn"/></a>
-<td align="center"><a 
-  href="https://github.com/Aleixon127271"><img src="https://github.com/Aleixon127271.png?size=100" width="100px;" alt=""/><br /><sub><b>Aleixon</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
+<a href="[https://github.com/AngelPeruFachero]"><img src="https://github.com/AngelPeruFachero.png" width="100" height="100" alt="Angel"/></a>
+
     <td align="center"><a   
 <td align="center"><a 
   href="https://github.com/AzamiJs/CuriosityBot-MD"><img src="https://github.com/AzamiJs/CuriosityBot-MD.png?size=100" width="100px;" alt=""/><br /><sub><b>AzamiJs</b></sub></a><br /><sub><i>Desarollador Oficial</i></sub></td>
@@ -129,4 +127,4 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/WhiskeySockets/Baileys"><img src="https://github.com/WhiskeySockets.png" width="150" height="150" alt="adiwajshing"/></a>
 
   
-`𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯 -  𝐄𝐧𝐝𝐞𝐫 𝐋𝐃`
+`𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯 -  𝐀𝐧𝐠𝐞𝐥 𝐋𝐃`
