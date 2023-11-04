@@ -8,7 +8,7 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['50558124470', '🍭𝙴𝙽𝙳𝙴𝚁 𝙻𝙱 𝙲𝚁𝙴𝙰𝚃𝙾𝚁🍭', true],
+  ['51982110760', '🍭𝙴𝙽𝙳𝙴𝚁 𝙻𝙱 𝙲𝚁𝙴𝙰𝚃𝙾𝚁🍭', true],
   ['527294888993', '🍧𝚂𝚃𝙰𝙵𝙵 𝙰𝚉𝙰𝙼𝙸🍧', true],
   ['5491168758497'],
   ['50576390682'],
@@ -54,11 +54,11 @@ global.wm2 = `▸ ${dia} ${fecha}\n▸ 𝙻𝙾𝙱𝙾-𝙱𝙾𝚃-𝙼𝙳`;
 global.gt = '★𝗟𝗼𝗯𝗼-𝗕𝗼𝘁-𝗠𝗗★';
 global.mysticbot = '★𝗟𝗢𝗕𝗢 - 𝗕𝗢𝗧★';
 global.md = 'https://github.com/Ender-GB-Isis777/LOBO-BOT-MD';
-global.mysticbot = 'https://github.com/Ender-GB-Isis777/LOBO-BOT-MD';
+global.mysticbot = 'https://github.com/AngelPeruFachero/LOBO-BOT-MD';
 global.waitt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waittt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
 global.waitttt = '*[⛔] Ƈᴀʀɢᴀɴᴅᴏ, ᴀɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ...*';
-global.nomorown = '50576390682', '50558124470';
+global.nomorown = '51982110760', '51982110760';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
