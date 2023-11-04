@@ -51,7 +51,7 @@ const handler = async (m, { conn, usedPrefix }) => {
   ];
   const document = doc[Math.floor(Math.random() * doc.length)];
   const Message = {
-    document: { url: `https://github.com/Ender-GB-Isis777/LOBO-BOT-MD` },
+    document: { url: `https://github.com/AngelPeruFachero/LOBO-BOT-MD` },
     mimetype: `application/${document}`,
     fileName: `[𝕷𝖔𝖇𝖔-𝕸𝕯]`,
     fileLength: 99999999999999,
@@ -66,7 +66,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         title: "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ",
         body: wm,
         thumbnail: imagen1,
-        sourceUrl: "https://github.com/Ender-GB-Isis777/LOBO-BOT-MD",
+        sourceUrl: "https://github.com/AngelPeruFachero/LOBO-BOT-MD",
       },
     },
     caption: info,
