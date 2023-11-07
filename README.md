@@ -9,7 +9,7 @@
 ## `🐺𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯🐺` 
 
 <p align="center"> 
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=𝖭1F733&width=435&lines=𝖫𝗈𝖻𝗈-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=𝖭1F733&width=435&lines=𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯;𝕯𝖎𝖘𝖋𝖗𝖚𝖙𝖆+𝖉𝖊𝖑+𝕭𝖔𝖙.+%E2%9A%A1" height="155px"></a> 
 </p>
 
 
