@@ -14,10 +14,6 @@
 
 
 <p align="center">
-<img src="file:///storage/emulated/0/Pictures/Screenshots/IMG_20231107_183812.jpg" alt="LoboBot-MD" width="900"/>
-
-
-<p align="center">
 <img src="https://i.ibb.co/wYRhwjt/lobo-bot.jpg" alt="LoboBot-MD" width="900"/>
 </p>
 ------------------
