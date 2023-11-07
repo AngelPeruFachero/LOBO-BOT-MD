@@ -7,6 +7,12 @@
 >🌼𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿𝗲𝘀: 
 
 ## `🐺𝕷𝖔𝖇𝖔-𝕭𝖔𝖙-𝕸𝕯🐺` 
+
+<p align="center"> 
+<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=𝖫𝗈𝖻𝗈-Bot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
+</p>
+
+
 <p align="center">
 <img src="https://i.ibb.co/wYRhwjt/lobo-bot.jpg" alt="LoboBot-MD" width="900"/>
 </p>
